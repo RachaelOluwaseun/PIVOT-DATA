@@ -1,3 +1,6 @@
 #Assignment on Pivot data table images on power bi
-#SELECT = FROM DATA ANALYSIS SCREENSHOTS
-#WHERE CONDITION = TRUE
+#Data Analysis
+```Power Bi
+SELECT = FROM Table 1
+WHERE CONDITION = TRUE
+```
