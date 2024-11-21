@@ -1,3 +1,3 @@
-#Assignment on Pivot data table images on power bi
+#Assignment on Pivot data table using Power BIimages
 #Data Analysis
 
