@@ -10,3 +10,6 @@ This is a documentation on Pivot data using Power BI (matrices and table) for ta
 ![PIVOT TABLE ASS IMAGE 5](https://github.com/user-attachments/assets/53502ef6-f567-4814-a51c-1666b23f8b41)
 ![PIVOT TABLE ASS IMAGE 4](https://github.com/user-attachments/assets/f2000ec8-975b-4538-92f5-8e06b9a89cbd)
 ![PIVOT TABLE ASS IMAGE 3](https://github.com/user-attachments/assets/6df25d03-4a26-4f4c-8d67-df6e29035966)
+![PROJECT POWER BI 1](https://github.com/user-attachments/assets/c77a2ab2-4a84-426a-87e1-f09142ce10b7)
+![PROJECT POWER BI 3](https://github.com/user-attachments/assets/2a63396b-5960-492d-a74b-05ed4a4b1577)
+![PROJECT POWER BI 2](https://github.com/user-attachments/assets/ebcef2ed-8437-4559-a23a-60893a80ffb4)
